@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patutya
 - 👀 I’m interested in C# programing and 3d printing.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything i can help with.
 - 📫 How to reach me: DC/Patutya Maniak#1634
 
